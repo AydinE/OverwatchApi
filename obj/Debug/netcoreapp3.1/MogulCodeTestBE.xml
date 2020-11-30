@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MogulCodeTestBE</name>
+    </assembly>
+    <members>
+        <member name="M:MogulCodeTestBE.Controllers.TeamCompController.GetAsync(System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Sorts the team by highest win ratio (competitive) (try zwitsaltje-2429)
+            </summary>
+        </member>
+        <member name="M:MogulCodeTestBE.Controllers.TeamCompController.GetProfileAsync(System.String)">
+            <summary>
+            Test endpoint to get all profile details (try zwitsaltje-2429)
+            </summary>
+        </member>
+    </members>
+</doc>
